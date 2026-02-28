@@ -1,1 +1,3 @@
 I am HypnosisI2P AKA Buguldey from old aicomminity.info then hosted readonly at ailab.ru at some periods of history. GPG signatures pending...
+
+See also: https://github.com/tattwamasii2p/east4_2026NSNN1/blob/main/src/main/java/org/east4/helpful_assistant/brain/deliberation/EvidenceVerificationProofsPool.java
